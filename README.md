@@ -3,6 +3,7 @@
 <p align="center">
   <a href="mailto:maxwell.lokshin@2zick.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/maxwelllokshin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://maxwelllokshin1.github.io/"><img src="https://img.shields.io/badge/portfolio-198C16?style=for-the-badge&logo=portfolio&logoColor=white"></a>
 </p>
 <div align="center">
 
